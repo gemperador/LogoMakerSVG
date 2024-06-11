@@ -27,7 +27,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Gabby
+Gabby. CHATGPT assisted in correcting errors in index.js files.
 
 ## Screenshots
 
