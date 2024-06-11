@@ -31,6 +31,10 @@ Gabby
 
 ## Screenshots
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Links
 
 Link to deployed app:: (https://gemperador.github.io/LogoMakerSVG/) 
