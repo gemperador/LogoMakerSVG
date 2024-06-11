@@ -37,9 +37,9 @@ Gabby
 
 ## Links
 
-Link to deployed app:: (https://gemperador.github.io/LogoMakerSVG/) 
+Link to deployed app:[](https://gemperador.github.io/LogoMakerSVG/)
 
- Link to repo: (https://github.com/gemperador/LogoMakerSVG) 
+ Link to repo: [](https://github.com/gemperador/LogoMakerSVG)
 
 ## Questions
 
