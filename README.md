@@ -41,6 +41,8 @@ Link to deployed app:[](https://gemperador.github.io/LogoMakerSVG/)
 
  Link to repo: [](https://github.com/gemperador/LogoMakerSVG)
 
+Link to video submission: [](https://drive.google.com/file/d/1cd01RN7XgefAv1gsRBnR9ewE1jaM65OP/view?usp=sharing)
+
 ## Questions
 
 For any questions, you can contact me via:
